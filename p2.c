@@ -15,7 +15,7 @@ int main()
     for(i=1;i<=f;i++)
         scanf("%d",&frames[i]);
  
-    printf("(assuming no corruption of frames)\n\n");
+    printf("\n(assuming no corruption of frames)\n");
     printf("After sending %d frames at each stage sender waits for acknowledgement sent by the receiver\n\n",w);
  
     for(i=1;i<=f;i++)
