@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+
 void extractIpAddress(unsigned char *sourceString,short *ipAddress)
 {
     unsigned short len=0;
