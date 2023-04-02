@@ -1,6 +1,7 @@
 # CN-LAB
 
-# 1. Prepare a detailed report on different devices available in various layers of computer network
+# 1. 
+Prepare a detailed report on different devices available in various layers of computer network
 architecture.
 
 # 2.
