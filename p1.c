@@ -5,7 +5,6 @@ void extractIpAddress(unsigned char *sourceString,short *ipAddress)
 {
     unsigned short len=0;
     unsigned char  oct[4]={0},cnt=0,cnt1=0,i,buf[5];
-
     
     len=strlen(sourceString);
     for(i=0;i<len;i++)
